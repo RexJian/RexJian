@@ -7,7 +7,7 @@
 - [SystemVerilog typical architecture labs](https://github.com/RexJian/SystemVerilogLabs)
 - [Using ESP32 and ADXL345, combine a neural network to create simple calculator](https://github.com/RexJian/ESP32_NeuralNetwork)
 
-## 📚 Skills and Languages
+## 📚 Skills
 <h4>Digital IC Verification</h4>
 <ol>
     <li><span style="font-size: smaller;">Develop integrated verification environment with SystemVerilog</span></li>
