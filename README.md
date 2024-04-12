@@ -5,6 +5,7 @@
 
 ## 💡 Projects
 - [SystemVerilog typical architecture labs](https://github.com/RexJian/SystemVerilogLabs)
+- [Convolution Circuit](https://github.com/RexJian/Convolution-Circuit/tree/main)
 - [Job Assignment Machine](https://github.com/RexJian/JobAssignmentMachine/tree/main)
 - [Using standrad cell compare triangle areas](https://github.com/RexJian/Using-standard-cell-compare-triangle-areas)
 - [Using ESP32 and ADXL345, combine a neural network to create simple calculator](https://github.com/RexJian/ESP32_NeuralNetwork)
