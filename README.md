@@ -1,6 +1,6 @@
 ## Hi I'm Rex Jian 👋
 - 😄 I am currently pursuing my master’s degree in Electrical Engineering at Chung Cheng University
-- 🌱 I’m  learning Digital IC Verification
+- 🌱 I’m  learning Digital IC Verification/Design
 
 
 ## 💡 Projects
