@@ -4,13 +4,16 @@
 
 
 ## 💡 Projects
+### Digital IC Verification
 - [SystemVerilog typical architecture labs](https://github.com/RexJian/SystemVerilogLabs)
+### Digital IC Design
 - [Float Point Multiplier](https://github.com/RexJian/Float_Point_Multiplier/tree/main)
+- [Convolution Circuit](https://github.com/RexJian/Convolution-Circuit/tree/main)
 - [Simple MIPS CPU](https://github.com/RexJian/Simple_MIPS_CPU/tree/main)
 - [LCD Image Controller](https://github.com/RexJian/LCD-Image-Controller)
-- [Convolution Circuit](https://github.com/RexJian/Convolution-Circuit/tree/main)
 - [Job Assignment Machine](https://github.com/RexJian/JobAssignmentMachine/tree/main)
 - [Using standrad cell compare triangle areas](https://github.com/RexJian/Using-standard-cell-compare-triangle-areas)
+### Microcontroller Unit & Machine Learning
 - [Using ESP32 and ADXL345, combine a neural network to create simple calculator](https://github.com/RexJian/ESP32_NeuralNetwork)
 
 ## 📚 Skills
