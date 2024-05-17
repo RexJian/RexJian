@@ -5,6 +5,7 @@
 
 ## 💡 Projects
 - [SystemVerilog typical architecture labs](https://github.com/RexJian/SystemVerilogLabs)
+- [Float Point Multiplier](https://github.com/RexJian/Float_Point_Multiplier/tree/main)
 - [Simple MIPS CPU](https://github.com/RexJian/Simple_MIPS_CPU/tree/main)
 - [LCD Image Controller](https://github.com/RexJian/LCD-Image-Controller)
 - [Convolution Circuit](https://github.com/RexJian/Convolution-Circuit/tree/main)
