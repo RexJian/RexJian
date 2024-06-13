@@ -9,7 +9,7 @@
 ### Digital IC Design
 - [Float Point Multiplier](https://github.com/RexJian/Float_Point_Multiplier/tree/main)
 - [Convolution Circuit](https://github.com/RexJian/Convolution-Circuit/tree/main)
-- [Simple MIPS CPU](https://github.com/RexJian/Simple_MIPS_CPU/tree/main)
+- [Pipeline MIPS CPU](https://github.com/RexJian/PipelineCPU)
 - [LCD Image Controller](https://github.com/RexJian/LCD-Image-Controller)
 - [Job Assignment Machine](https://github.com/RexJian/JobAssignmentMachine/tree/main)
 - [Using standrad cell compare triangle areas](https://github.com/RexJian/Using-standard-cell-compare-triangle-areas)
