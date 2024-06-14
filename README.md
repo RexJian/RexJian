@@ -8,7 +8,7 @@
 - [SystemVerilog typical architecture labs](https://github.com/RexJian/SystemVerilogLabs)
 ### Digital IC Design
 - [Float Point Multiplier](https://github.com/RexJian/Float_Point_Multiplier/tree/main)
-- [Pipeline MIPS CPU](https://github.com/RexJian/PipelineCPU)
+- [5-Stage Pipeline MIPS CPU](https://github.com/RexJian/PipelineCPU)
 - [Convolution Circuit](https://github.com/RexJian/Convolution-Circuit/tree/main)
 - [LCD Image Controller](https://github.com/RexJian/LCD-Image-Controller)
 - [Job Assignment Machine](https://github.com/RexJian/JobAssignmentMachine/tree/main)
