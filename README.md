@@ -13,7 +13,7 @@
 - [LCD Image Controller](https://github.com/RexJian/LCD-Image-Controller)
 - [Job Assignment Machine](https://github.com/RexJian/JobAssignmentMachine/tree/main)
 - [Using standrad cell compare triangle areas](https://github.com/RexJian/Using-standard-cell-compare-triangle-areas)
-### Microcontroller Unit & Machine Learning
+### MCU & Machine Learning
 - [Using ESP32 and ADXL345, combine a neural network to create simple calculator](https://github.com/RexJian/ESP32_NeuralNetwork)
 
 ## 📚 Skills
