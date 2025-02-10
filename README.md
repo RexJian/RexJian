@@ -7,6 +7,8 @@
 ### Digital IC Verification
 - [SystemVerilog typical architecture labs](https://github.com/RexJian/SystemVerilogLabs)
 ### Digital IC Design
+- [All-Digital Phase-Locked Loop](https://github.com/RexJian/All-Digital-Phase-Locked-Loop)
+- [Deep Neural Network with Power Gating](https://github.com/RexJian/Deep-Neural-Network-with-Power-Gating/tree/main)
 - [Float Point Multiplier](https://github.com/RexJian/Float_Point_Multiplier/tree/main)
 - [5-Stage Pipeline MIPS CPU](https://github.com/RexJian/PipelineCPU)
 - [Convolution Circuit](https://github.com/RexJian/Convolution-Circuit/tree/main)
